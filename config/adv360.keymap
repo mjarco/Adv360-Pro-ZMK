@@ -58,7 +58,7 @@
         keypad {
             bindings = <
 &kp EQUAL  &kp N1     &kp N2     &kp N3    &kp N4      &kp N5       &trans                                                              &mo 4      &kp N6     &kp KP_NUM  &kp KP_EQUAL  &kp KP_DIVIDE     &kp KP_MULTIPLY    &trans
-&kp F1     &kp F2     &kp F3     &kp F4    &kp F5      &kp F6       &none                                                               &none      &kp F7     &kp F8      &kp F9        &kp LT            &kp GT             &kp F12
+&trans     &trans     &kp F1     &kp F2    &kp F3      &kp F4       &none                                                               &none      &kp F5     &kp F6      &kp F8        &kp LT            &kp GT             &kp F12
 &trans     &trans     &kp TILDE  &kp HASH  &kp DOLLAR  &kp PERCENT  &none     &kp LCTRL         &kp LALT      &kp LGUI   &kp RIGHT_ALT  &none      &kp COLON  &kp MINUS   &kp EQUAL     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
 &trans     &trans     &trans     &trans    &trans      &trans                                   &kp HOME      &kp PG_UP                            &trans     &kp UNDER   &kp PLUS      &kp LEFT_BRACE    &kp RIGHT_BRACE    &trans
 &mo 3      &kp GRAVE  &trans     &trans    &trans                   &kp BSPC  &kp LEFT_COMMAND  &kp END       &kp PG_DN  &kp ENTER      &kp SPACE             &trans      &trans        &trans            &trans             &mo 4
